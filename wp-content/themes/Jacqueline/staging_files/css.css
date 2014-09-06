@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Damion';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Damion'), url(http://fonts.gstatic.com/s/damion/v5/qyDz-al48wZmmi6RcQn1Mg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Radley';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Radley'), url(http://fonts.gstatic.com/s/radley/v8/PCfSm80uwSSajtwGqUI1vg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Radley';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Radley Italic'), local('Radley-Italic'), url(http://fonts.gstatic.com/s/radley/v8/7kJhhuyv_IA9NrjME17dc_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}

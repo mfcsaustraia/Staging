@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jacqueline Theme\n"
+"POT-Creation-Date: 2013-11-07 16:42+0800\n"
+"PO-Revision-Date: 2013-11-07 16:44+0800\n"
+"Last-Translator: Andrew Wong <hello@bluchic.com>\n"
+"Language-Team: BluChic <hello@bluchic.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:18 content-none.php:12
+msgid "Archives by month"
+msgstr ""
+
+#: 404.php:24 content-none.php:18
+msgid "Archives by category"
+msgstr ""
+
+#: archive.php:10
+msgid "Archive of"
+msgstr ""
+
+#: archive.php:10
+msgid "category"
+msgstr ""
+
+#: archive.php:12
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:14 archive.php:16 archive.php:18
+msgid "archive"
+msgstr ""
+
+#: archive.php:20
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "0 comment"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "on"
+msgstr ""
+
+#: comments.php:23
+msgid "Pingbacks &amp; Trackbacks on"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:49 comments.php:55 layouts/page_sitemap.php:43
+msgid "Comment"
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:52
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:53
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: comments.php:58
+msgid "Email"
+msgstr ""
+
+#: comments.php:59
+msgid "Website"
+msgstr ""
+
+#: content-list.php:5 content.php:5 layouts/related.php:15
+msgid "bookmark"
+msgstr ""
+
+#: content-list.php:7 content.php:7
+msgid "By"
+msgstr ""
+
+#: content-list.php:24 content.php:19
+msgid "Posted in"
+msgstr ""
+
+#: content-none.php:4
+msgid "Not Found"
+msgstr ""
+
+#: content-none.php:7
+msgid ""
+"You have come to a page that is either not existing or already been removed"
+msgstr ""
+
+#: footer.php:33
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:33
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:33
+msgid "Designed by"
+msgstr ""
+
+#: search.php:7
+msgid "Searching for"
+msgstr ""
+
+#: searchform.php:3 searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: includes/ace_options.php:90 includes/ace_options.php:108
+#: includes/modules.php:51
+msgid "Theme Options"
+msgstr ""
+
+#: includes/ace_options.php:114
+msgid "http://bluchic.com/support/knowledgebase.php"
+msgstr ""
+
+#: includes/ace_options.php:114
+msgid "http://www.bluchic.com/support"
+msgstr ""
+
+#: includes/ace_options.php:114
+msgid "https://twitter.com/hibluchic"
+msgstr ""
+
+#: includes/ace_options.php:114
+msgid "http://www.facebook.com/hibluchic"
+msgstr ""
+
+#: includes/ace_options.php:120
+msgid "General settings"
+msgstr ""
+
+#: includes/ace_options.php:121
+msgid "Colors settings"
+msgstr ""
+
+#: includes/ace_options.php:122
+msgid "Extra inputs settings"
+msgstr ""
+
+#: includes/ace_options.php:123
+msgid "Slider settings"
+msgstr ""
+
+#: includes/ace_options.php:124
+msgid "Social media settings"
+msgstr ""
+
+#: includes/ace_options.php:125
+msgid "Entry settings"
+msgstr ""
+
+#: includes/ace_options.php:126
+msgid "Newsletter area settings"
+msgstr ""
+
+#: includes/ace_options.php:127
+msgid "404 page settings"
+msgstr ""
+
+#: includes/ace_options.php:129 includes/ace_options.php:406
+msgid "Save settings"
+msgstr ""
+
+#: includes/ace_options.php:287 includes/ace_options.php:289
+msgid "Upload"
+msgstr ""
+
+#: includes/ace_options.php:291
+msgid "Upload an image"
+msgstr ""
+
+#: includes/ace_options.php:291
+msgid "and copy-paste the file URL or enter an image URL"
+msgstr ""
+
+#: includes/ace_options.php:291
+msgid "(including http://)"
+msgstr ""
+
+#: includes/ace_options.php:291
+msgid "Preferable size at"
+msgstr ""
+
+#: includes/ace_options.php:291
+msgid "pixel"
+msgstr ""
+
+#: includes/ace_options.php:326
+msgid "Select"
+msgstr ""
+
+#: includes/ace_options.php:410
+msgid "Reset all settings"
+msgstr ""
+
+#: includes/ace_updates.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/ace_updates.php:91
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/custom_widgets.php:8
+msgid "Show a short biography of author"
+msgstr ""
+
+#: includes/custom_widgets.php:9
+msgid "Ace Blog Author"
+msgstr ""
+
+#: includes/custom_widgets.php:39 includes/custom_widgets.php:109
+#: includes/custom_widgets.php:205
+msgid "Title"
+msgstr ""
+
+#: includes/custom_widgets.php:43
+msgid "Picture"
+msgstr ""
+
+#: includes/custom_widgets.php:47
+msgid "Short Description"
+msgstr ""
+
+#: includes/custom_widgets.php:51
+msgid "Read More Text (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:55
+msgid "Read More URL (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:74
+msgid "This is a contact and location widget"
+msgstr ""
+
+#: includes/custom_widgets.php:75
+msgid "Ace Contact Location"
+msgstr ""
+
+#: includes/custom_widgets.php:113
+msgid "Address"
+msgstr ""
+
+#: includes/custom_widgets.php:117 includes/custom_widgets.php:209
+msgid "Email address"
+msgstr ""
+
+#: includes/custom_widgets.php:121
+msgid "Phone number"
+msgstr ""
+
+#: includes/custom_widgets.php:125
+msgid "Fax number"
+msgstr ""
+
+#: includes/custom_widgets.php:144
+msgid "Show social network like Twitter, Facebook, RSS, etc."
+msgstr ""
+
+#: includes/custom_widgets.php:145
+msgid "Ace Social Networks"
+msgstr ""
+
+#: includes/custom_widgets.php:213
+msgid "Custom RSS feed (Leave blank to use default)"
+msgstr ""
+
+#: includes/custom_widgets.php:217
+msgid "Facebook full URL"
+msgstr ""
+
+#: includes/custom_widgets.php:221
+msgid "Twitter username"
+msgstr ""
+
+#: includes/custom_widgets.php:225
+msgid "Google Plus:"
+msgstr ""
+
+#: includes/custom_widgets.php:229
+msgid "Flickr:"
+msgstr ""
+
+#: includes/custom_widgets.php:233
+msgid "Linkedin:"
+msgstr ""
+
+#: includes/custom_widgets.php:237
+msgid "YouTube:"
+msgstr ""
+
+#: includes/custom_widgets.php:241
+msgid "Vimeo:"
+msgstr ""
+
+#: includes/custom_widgets.php:245
+msgid "Instagram:"
+msgstr ""
+
+#: includes/custom_widgets.php:249
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/custom_widgets.php:254
+msgid "Bloglovin:"
+msgstr ""
+
+#: includes/modules.php:119
+msgid "Top Menu"
+msgstr ""
+
+#: includes/modules.php:279
+msgid "Please enable referrers in your browser."
+msgstr ""
+
+#: includes/modules.php:291
+msgid "ago"
+msgstr ""
+
+#: includes/modules.php:305
+#, php-format
+msgid "<h6>%s</h6>"
+msgstr ""
+
+#: includes/modules.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/modules.php:306
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/modules.php:308
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: includes/modules.php:330
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/modules.php:414
+msgid "Home"
+msgstr ""
+
+#: includes/modules.php:431
+msgid "Archive by category &#39;"
+msgstr ""
+
+#: includes/modules.php:507
+msgid "Search results for &#39;"
+msgstr ""
+
+#: includes/modules.php:511
+msgid "Posts tagged &#39;"
+msgstr ""
+
+#: includes/modules.php:519
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/modules.php:529
+msgid "Page"
+msgstr ""
+
+#: includes/modules.php:543
+msgid "Pages:"
+msgstr ""
+
+#: includes/modules.php:548
+msgid "Next page"
+msgstr ""
+
+#: includes/modules.php:549
+msgid "Previous page"
+msgstr ""
+
+#: includes/modules.php:569
+msgid "Previous"
+msgstr ""
+
+#: includes/modules.php:570 includes/modules.php:587
+msgid "Next"
+msgstr ""
+
+#: includes/modules.php:588
+msgid "Back"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "Right Widget"
+msgstr ""
+
+#: includes/widgets.php:24
+msgid "Footer Widget"
+msgstr ""
+
+#: layouts/page_archives.php:30
+msgid "Archives by month:"
+msgstr ""
+
+#: layouts/page_archives.php:36
+msgid "Archives by category:"
+msgstr ""
+
+#: layouts/page_sitemap.php:22
+msgid "Pages"
+msgstr ""
+
+#: layouts/page_sitemap.php:28
+msgid "Categories"
+msgstr ""
+
+#: layouts/related.php:1
+msgid "More related articles"
+msgstr ""

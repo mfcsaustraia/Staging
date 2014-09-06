@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /basic_runclick/wp-content/plugins/RunClickPlugin/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-s
+RewriteRule ^(.*)$ hangoutapi.php?rquest=$1 [QSA,NC,L]
+
+RewriteEngine On
+RewriteBase /wp-content/plugins/RunClickPlugin/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-s
+RewriteRule ^(.*)$ hangoutapi.php?rquest=$1 [QSA,NC,L]
+

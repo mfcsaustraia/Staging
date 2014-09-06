@@ -1,0 +1,1 @@
+[06-Aug-2014 17:12:55 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE testing_cron ADD PRIMARY KEY  (`id`) made by activate_plugin, do_action('activate_RunClickPlugin/google_hangout_plugin.php'), call_user_func_array, GoogleHangoutPlugin::install, dbDelta
